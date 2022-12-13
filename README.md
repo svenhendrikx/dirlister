@@ -1,4 +1,4 @@
 # Directory lister
 
 usage:
-    python3 __main__.py <url>
+    python3 dirlister.py \<url\>
